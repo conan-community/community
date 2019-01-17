@@ -5,7 +5,7 @@
 * Operating System: **Linux**
 * Operation System Version: **Ubuntu 16.04**
 * Compiler+version: **gcc-5.4**
-* Docker image: **lasote/conangcc72**
+* Docker image: **conanio/gcc7**
 * Conan version: **conan 1.2.0**
 * Python version: **python 3.7.0**
 
