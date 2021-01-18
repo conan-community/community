@@ -1,10 +1,13 @@
+## DEPRECATION NOTE
 
-conan-community
+#### Conan Community is no longer maintained and will be closed soon. Consider moving all your dependencies to [Conan Center Index](https://github.com/conan-io/conan-center-index) as soon as possible. 
+
+#### If you want to submit a new package request, read [#282](https://github.com/conan-community/community/issues/282).
+
+Conan Community
 ---------------
 
-Organization to manage the recipes from the Bintray **conan-community**.
-
-**conan-community** Bintray repository should be considered as an incubator to mature packages before contacting authors or including them in [conan-center](https://bintray.com/conan/conan-center).
+It was an organization to manage the recipes from the Bintray **conan-community**.
 
 #### LICENSE
 [MIT](LICENSE.md)
